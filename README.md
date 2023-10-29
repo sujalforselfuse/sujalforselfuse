@@ -1,6 +1,6 @@
 # 💫 About Me:
 🏆 National Hackathon Runner Up<br>
-🔭 I’m currently working as Full Stack Developer<br>👯 I’m looking to collaborate on React + Node projects<br>🌱 I’m currently learning Web Development in deeper prospects.<br>💬 Ask me about websites and webapps.<br>
+🔭 I’m currently working as Full Stack Developer<br>👯 Let's connect, You, Me, Code and Coffee <br>🌱 I’m currently exploring Machine Learning .
 
 
 ## 🌐 Socials:
