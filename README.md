@@ -13,6 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujalforselfuse&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalforselfuse&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![sujalforselfuse's GitHub | Dependencies](https://stats.quine.sh/sujalforselfuse/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sujalforselfuse)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sujalforselfuse&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
