@@ -1,7 +1,7 @@
 # 💫 About Me:
 🏆 National Hackathon Runner Up<br>
 🌟 Nominated For Best Practical Application @MANIT Bhopal <br>
-🔭 I’m currently working as Full Stack Developer<br>👯 Let's connect, You, Me, Code and Coffee <br>🌱 I’m currently exploring Machine Learning .
+🔭 Ex Full Stack Intern @Mechbuddy<br>👯 Let's connect, You, Me, Code and Coffee <br>🌱 I’m currently exploring Machine Learning .
 
 
 ## 🌐 Socials:
