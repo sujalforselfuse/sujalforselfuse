@@ -1,7 +1,7 @@
 # 💫 About Me:
-🏆 National Hackathon Runner Up<br>
+🏆 National Hackathon Runner Up @SIRT <br>
 🌟 Nominated For Best Practical Application @MANIT Bhopal <br>
-🔭 Ex Full Stack Intern @Mechbuddy<br>👯 Let's connect, You, Me, Code and Coffee <br>🌱 I’m currently exploring Machine Learning .
+🔭 Ex Full Stack Intern @Mechbuddy<br>💻 Currently Serving as Backend Advisor @RS Tech Agency, Raipur. <br>
 
 
 ## 🌐 Socials:
