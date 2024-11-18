@@ -15,7 +15,7 @@
 
 [![sujalforselfuse's GitHub | Dependencies](https://stats.quine.sh/sujalforselfuse/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sujalforselfuse)
 
-
+[![sujalforselfuse's GitHub | Languages Over Time](https://stats.quira.sh/sujalforselfuse/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sujalforselfuse)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sujalforselfuse&icon=0&color=0)](https://visitcount.itsvg.in)
