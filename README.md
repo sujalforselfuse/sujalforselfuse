@@ -3,6 +3,7 @@
 Have a look at my portfolio:-
 https://sujal-chandrakar-portfolio.netlify.app/
 
+🚀Full Stack Intern @Infloso AI
 🏆 National Hackathon Runner Up @SIRT <br>
 🌟 Nominated For Best Practical Application @MANIT Bhopal <br>
 🔭 Ex Full Stack Intern @Mechbuddy<br>
